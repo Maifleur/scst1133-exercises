@@ -2,7 +2,7 @@
 
 Name: NURUL ALIYYAH MAISARAH BINTI ZAINUDIN
 Matric Number: A26CS0336
-Section: 04
+Section: 4
 Course: Data Engineering Ecosystem
 
 ## About This Repository
